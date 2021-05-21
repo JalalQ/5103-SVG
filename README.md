@@ -1,5 +1,5 @@
 # Introduction
-Create a visual using scalable vector graphics (SVG). Use JavaScript to change display the lights in the Christmas tree.
+Create a visual using scalable vector graphics (SVG). Use JavaScript to "turn on" the lights in the Christmas tree.
 
 ## Screenshots
 
